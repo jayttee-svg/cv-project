@@ -1,9 +1,23 @@
 # CV Project
 
-This is a personal CV website built with HTML, CSS, and JavaScript.
+This is a personal CV website built using HTML, CSS, and JavaScript.
 
-## 🔗 Project Page
+## 🔗 Live Project
 
-[View the project here](https://jayttee-svg.github.io/cv-project/)
+[View it on GitHub Pages](https://jayttee-svg.github.io/cv-project/)
 
-https://github.com/jayttee-svg/cv-project.git
+## 💼 Features
+
+- Clean, professional CV layout
+- Responsive design
+- Easy to customize
+
+## 📁 How to Use
+
+Clone the repo, make your changes, and deploy to GitHub Pages.
+
+```bash
+git clone https://github.com/jayttee-svg/cv-project.git
+
+
+Visit; https://roadmap.sh/projects/single-page-cv
